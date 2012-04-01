@@ -1,0 +1,14 @@
+package example.entity;
+
+import javax.persistence.MappedSuperclass;
+
+/**
+ * Entity ‚Ì’ŠÛƒNƒ‰ƒX
+ *
+ * @author auto generated
+ * @version
+ */
+@MappedSuperclass
+public abstract class Clazz {
+
+}
